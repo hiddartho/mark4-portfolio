@@ -46,3 +46,23 @@ links */
     display: inline;
     padding: 0rem 0.5rem;
 }
+
+/* nav */
+.navigation{
+    background-color: var(--primary-link);
+    color: #fff;
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+.navigation .nav-brand{
+    font-weight: bold;
+}
+.navigation .link{
+    color: #fff;
+}
+.navigation .nav-pills{
+    text-align: right;
+}
+.navigation .link-active{
+    font-weight: bold;
+}
